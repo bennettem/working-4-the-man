@@ -11,4 +11,7 @@ be displayed and color coated to indicate whether the event is past, present, or
 
 # Deployed link
 
+https://bennettem.github.io/working-4-the-man/
+
 # Mock up of site
+
