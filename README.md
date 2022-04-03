@@ -15,3 +15,5 @@ https://bennettem.github.io/working-4-the-man/
 
 # Mock up of site
 
+![alt text](https://github.com/bennettem/working-4-the-man/blob/main/Screenshot1.png)
+![alt text](https://github.com/bennettem/working-4-the-man/blob/main/Screenshot2.png)
